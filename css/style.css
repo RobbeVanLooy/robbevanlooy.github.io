@@ -45,6 +45,18 @@ Table of Content:
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+.bottom-test-area {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  font-size: small;
+  color: black;
+}
+
+.color-black {
+  color: black;
+}
+
 .list {
   list-style: none;
   margin: 0px;
