@@ -45,6 +45,15 @@ Table of Content:
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+.no-scrollbar {
+  margin: 0;
+  height: 100vh;
+}
+
+canvas {
+  display: block;
+}
+
 .bottom-test-area {
   padding: 0px;
   margin: 0px;
